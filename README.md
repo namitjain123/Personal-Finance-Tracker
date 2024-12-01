@@ -123,7 +123,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Muzammil - [Muzammilmuzaffar18@gmail.com](mailto:muzammilmuzaffar18@gmail.com)
 
-Project Link: [https://github.com/muzammilshaik/finance-tracker](https://github.com/Muzammil0777/Personal-Finance-Tracker)
+Project Link: https://github.com/Muzammil0777/Personal-Finance-Tracker
 
 ---
 ⭐️ Star this repo if you find it helpful!
