@@ -31,7 +31,7 @@ A sophisticated personal finance management system built with Python and Streaml
 ### Installation
 
 1. Clone the repository
-git clone https://github.com/Muzammil0777/Personal-Finance-Tracker.git
+git clone(https://github.com/namitjain123/Personal-Finance-Tracker.git)
 cd finance-tracker
 
 2. Create and activate virtual environment (recommended)
@@ -109,9 +109,7 @@ The application will automatically:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -119,11 +117,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The Python community for excellent libraries
 - All contributors and users of this project
 
-## 📧 Contact
-
-Muzammil - [Muzammilmuzaffar18@gmail.com](mailto:muzammilmuzaffar18@gmail.com)
-
-Project Link: https://github.com/Muzammil0777/Personal-Finance-Tracker
-
----
-⭐️ Star this repo if you find it helpful!
